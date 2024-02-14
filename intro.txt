@@ -1,0 +1,2 @@
+Olá, este é o repositório da matéria de Linguagem de Progamação, do segundo semestre de Análise e Desenvolvimento na SPTech. 
+Onde aprenderemos a codar em Java. 
